@@ -10,4 +10,4 @@ Java · Spring Boot · TypeScript · React · Vue · Angular · Next.js · Node.
 
 Porsche · McDonald's · Atos · Tatra · Pikto · Molive — Canada, Germany, Czechia, Slovakia
 
-[LinkedIn](https://www.linkedin.com/in/fbalazsy) · Open source, straight-six engines, loud music.
+[LinkedIn](https://www.linkedin.com/in/fbalazsy) · Code, straight-six engines, loud music.
