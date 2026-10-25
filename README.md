@@ -1,2 +1,1 @@
-<p align="center"><img src=".github/pincenez.svg" width="560" alt=""></p>
-<p align="center"><sub>straight-six · open source · loud music</sub></p>
+<p align="center"><sub>coding samurai for hire · <a href="https://kazuki.sk">kazuki</a> · open source · straight-six · loud music</sub></p>
