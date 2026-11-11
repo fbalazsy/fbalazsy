@@ -2,10 +2,8 @@
 
 **AI engineer. 12 years freelance. Now [Kazuki](https://kazuki.sk).** Remote from Nitra, Slovakia.
 
-LLM agent platforms · multi-agent systems · RAG · harness engineering on Claude Code, Pi, OpenCode
+LLM agents · multi-agent systems · RAG
 
-Python · TypeScript · Java · C++ · Rust · Linux
-
-Porsche · McDonald's · Atos · Tatra · Pikto · Molive — Canada, Germany, Czechia, Slovakia
+Porsche · McDonald's · Atos · Pikto · Molive
 
 [LinkedIn](https://www.linkedin.com/in/fbalazsy) · Linux on Apple Silicon, straight-six engines, loud music.
